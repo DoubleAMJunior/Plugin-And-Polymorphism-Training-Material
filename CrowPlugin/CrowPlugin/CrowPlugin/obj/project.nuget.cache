@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "D4MLyWEBxvOaeyuU0nvc/2XsvXOIXzifPWmwrTEPL8nQ0v1552ry3/rKF/Bx66QJ7UYvt3UQ7gRqFqdEu2H7tg==",
+  "success": true,
+  "projectFilePath": "D:\\works\\DotNetTest\\repos\\CrowPlugin\\CrowPlugin\\CrowPlugin\\CrowPlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\abbasi\source\repos\plugin\plugin\obj\Debug\netcoreapp3.1\plugin.csprojAssemblyReference.cache
+C:\Users\abbasi\source\repos\plugin\plugin\obj\Debug\netcoreapp3.1\plugin.AssemblyInfoInputs.cache
+C:\Users\abbasi\source\repos\plugin\plugin\obj\Debug\netcoreapp3.1\plugin.AssemblyInfo.cs
+C:\Users\abbasi\source\repos\plugin\plugin\obj\Debug\netcoreapp3.1\plugin.csproj.CoreCompileInputs.cache
+C:\Users\abbasi\source\repos\plugin\plugin\bin\Debug\netcoreapp3.1\plugin.deps.json
+C:\Users\abbasi\source\repos\plugin\plugin\bin\Debug\netcoreapp3.1\plugin.dll
+C:\Users\abbasi\source\repos\plugin\plugin\bin\Debug\netcoreapp3.1\plugin.pdb
+C:\Users\abbasi\source\repos\plugin\plugin\obj\Debug\netcoreapp3.1\plugin.dll
+C:\Users\abbasi\source\repos\plugin\plugin\obj\Debug\netcoreapp3.1\plugin.pdb

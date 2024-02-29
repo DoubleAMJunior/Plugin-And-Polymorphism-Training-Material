@@ -1,0 +1,12 @@
+D:\works\DotNetTest\repos\ChickenPlugin\ChickenPlugin\bin\Debug\netstandard2.0\ChickenPlugin.deps.json
+D:\works\DotNetTest\repos\ChickenPlugin\ChickenPlugin\bin\Debug\netstandard2.0\ChickenPlugin.dll
+D:\works\DotNetTest\repos\ChickenPlugin\ChickenPlugin\bin\Debug\netstandard2.0\ChickenPlugin.pdb
+D:\works\DotNetTest\repos\ChickenPlugin\ChickenPlugin\bin\Debug\netstandard2.0\Interfaces.dll
+D:\works\DotNetTest\repos\ChickenPlugin\ChickenPlugin\bin\Debug\netstandard2.0\Interfaces.pdb
+D:\works\DotNetTest\repos\ChickenPlugin\ChickenPlugin\obj\Debug\netstandard2.0\ChickenPlugin.csprojAssemblyReference.cache
+D:\works\DotNetTest\repos\ChickenPlugin\ChickenPlugin\obj\Debug\netstandard2.0\ChickenPlugin.AssemblyInfoInputs.cache
+D:\works\DotNetTest\repos\ChickenPlugin\ChickenPlugin\obj\Debug\netstandard2.0\ChickenPlugin.AssemblyInfo.cs
+D:\works\DotNetTest\repos\ChickenPlugin\ChickenPlugin\obj\Debug\netstandard2.0\ChickenPlugin.csproj.CoreCompileInputs.cache
+D:\works\DotNetTest\repos\ChickenPlugin\ChickenPlugin\obj\Debug\netstandard2.0\ChickenPlugin.csproj.CopyComplete
+D:\works\DotNetTest\repos\ChickenPlugin\ChickenPlugin\obj\Debug\netstandard2.0\ChickenPlugin.dll
+D:\works\DotNetTest\repos\ChickenPlugin\ChickenPlugin\obj\Debug\netstandard2.0\ChickenPlugin.pdb

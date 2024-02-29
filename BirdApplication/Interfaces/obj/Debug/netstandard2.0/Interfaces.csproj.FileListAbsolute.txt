@@ -1,0 +1,17 @@
+C:\Users\abbasi\source\repos\BirdApplication\Interfaces\bin\Debug\netstandard2.0\Interfaces.deps.json
+C:\Users\abbasi\source\repos\BirdApplication\Interfaces\bin\Debug\netstandard2.0\Interfaces.dll
+C:\Users\abbasi\source\repos\BirdApplication\Interfaces\bin\Debug\netstandard2.0\Interfaces.pdb
+C:\Users\abbasi\source\repos\BirdApplication\Interfaces\obj\Debug\netstandard2.0\Interfaces.csprojAssemblyReference.cache
+C:\Users\abbasi\source\repos\BirdApplication\Interfaces\obj\Debug\netstandard2.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\abbasi\source\repos\BirdApplication\Interfaces\obj\Debug\netstandard2.0\Interfaces.AssemblyInfo.cs
+C:\Users\abbasi\source\repos\BirdApplication\Interfaces\obj\Debug\netstandard2.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\abbasi\source\repos\BirdApplication\Interfaces\obj\Debug\netstandard2.0\Interfaces.dll
+C:\Users\abbasi\source\repos\BirdApplication\Interfaces\obj\Debug\netstandard2.0\Interfaces.pdb
+D:\works\DotNetTest\repos\BirdApplication\Interfaces\bin\Debug\netstandard2.0\Interfaces.deps.json
+D:\works\DotNetTest\repos\BirdApplication\Interfaces\bin\Debug\netstandard2.0\Interfaces.dll
+D:\works\DotNetTest\repos\BirdApplication\Interfaces\bin\Debug\netstandard2.0\Interfaces.pdb
+D:\works\DotNetTest\repos\BirdApplication\Interfaces\obj\Debug\netstandard2.0\Interfaces.AssemblyInfoInputs.cache
+D:\works\DotNetTest\repos\BirdApplication\Interfaces\obj\Debug\netstandard2.0\Interfaces.AssemblyInfo.cs
+D:\works\DotNetTest\repos\BirdApplication\Interfaces\obj\Debug\netstandard2.0\Interfaces.csproj.CoreCompileInputs.cache
+D:\works\DotNetTest\repos\BirdApplication\Interfaces\obj\Debug\netstandard2.0\Interfaces.dll
+D:\works\DotNetTest\repos\BirdApplication\Interfaces\obj\Debug\netstandard2.0\Interfaces.pdb

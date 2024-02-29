@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PRcQr0AIecFRPqoSo8g7rNYp5UebYX2LAs+1UTrVD7zZJGVLZ0Ty3qSM/JMCVOqqrcBE2KC8UgnDM5mv/mQznA==",
+  "success": true,
+  "projectFilePath": "D:\\works\\DotNetTest\\repos\\EaglePlugin\\EaglePlugin\\EaglePlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

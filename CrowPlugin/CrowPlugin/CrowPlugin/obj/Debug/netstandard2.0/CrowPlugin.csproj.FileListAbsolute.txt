@@ -1,0 +1,12 @@
+D:\works\DotNetTest\repos\CrowPlugin\CrowPlugin\CrowPlugin\bin\Debug\netstandard2.0\CrowPlugin.deps.json
+D:\works\DotNetTest\repos\CrowPlugin\CrowPlugin\CrowPlugin\bin\Debug\netstandard2.0\CrowPlugin.dll
+D:\works\DotNetTest\repos\CrowPlugin\CrowPlugin\CrowPlugin\bin\Debug\netstandard2.0\CrowPlugin.pdb
+D:\works\DotNetTest\repos\CrowPlugin\CrowPlugin\CrowPlugin\bin\Debug\netstandard2.0\Interfaces.dll
+D:\works\DotNetTest\repos\CrowPlugin\CrowPlugin\CrowPlugin\bin\Debug\netstandard2.0\Interfaces.pdb
+D:\works\DotNetTest\repos\CrowPlugin\CrowPlugin\CrowPlugin\obj\Debug\netstandard2.0\CrowPlugin.csprojAssemblyReference.cache
+D:\works\DotNetTest\repos\CrowPlugin\CrowPlugin\CrowPlugin\obj\Debug\netstandard2.0\CrowPlugin.AssemblyInfoInputs.cache
+D:\works\DotNetTest\repos\CrowPlugin\CrowPlugin\CrowPlugin\obj\Debug\netstandard2.0\CrowPlugin.AssemblyInfo.cs
+D:\works\DotNetTest\repos\CrowPlugin\CrowPlugin\CrowPlugin\obj\Debug\netstandard2.0\CrowPlugin.csproj.CoreCompileInputs.cache
+D:\works\DotNetTest\repos\CrowPlugin\CrowPlugin\CrowPlugin\obj\Debug\netstandard2.0\CrowPlugin.csproj.CopyComplete
+D:\works\DotNetTest\repos\CrowPlugin\CrowPlugin\CrowPlugin\obj\Debug\netstandard2.0\CrowPlugin.dll
+D:\works\DotNetTest\repos\CrowPlugin\CrowPlugin\CrowPlugin\obj\Debug\netstandard2.0\CrowPlugin.pdb
